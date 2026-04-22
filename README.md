@@ -10,7 +10,7 @@ To write a program to predict the profit of a city using the linear regression m
 ## Algorithm
 1.Import the required library and read the dataframe.
 
-2.Write a function computeCost to generate the cost function.
+2.Write a function compute Cost to generate the cost function.
 
 3.Perform iterations og gradient steps with learning rate.
 
